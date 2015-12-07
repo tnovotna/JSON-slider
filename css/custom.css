@@ -1,0 +1,38 @@
+body {
+	max-width: 1024px;
+	font-family: Helvetica, Arial, sans-serif;
+    background-color: black;
+}
+
+button {
+	width: 44px;
+	height: 44px;
+}
+
+#content {
+	width: 1000px;
+}
+
+.titleArea {
+	position: relative;
+	top: 480px;
+	padding: 18px;
+	background-color: rgba(0,0,0,0.15);
+	color: #854;
+}
+
+.titleArea > h2 {
+	font-size: 2.4em;
+}
+
+.slide {
+	width: 1000px;
+	height: 700px;
+	overflow: hidden;
+}
+
+h1, h2{
+    color: papayawhip;
+    
+}
+

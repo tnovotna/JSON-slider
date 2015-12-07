@@ -1,0 +1,29 @@
+{
+  "slides": [
+    {
+      "title": "get caffeinated",
+      "description": "(stop by your favorite coffee shop)",
+      "image": "img/Graphics/1.jpg"
+    },
+    {
+      "title": "Eat",
+      "description": "Nourish your body",
+      "image": "img/Graphics/2.jpg"
+    },
+    {
+      "title": "Get some movement",
+      "description": "Get your body moving",
+      "image": "img/Graphics/3.jpg"
+    },
+    {
+      "title": "Reflect",
+      "description": "Find three things that your feel grateful for",
+      "image": "img/Graphics/4.jpg"
+    },
+    {
+      "title": "Jam out",
+      "description": "Play your favorite song and daaaance",
+      "image": "img/Graphics/5.jpg"
+    }
+  ]
+}
